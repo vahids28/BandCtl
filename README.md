@@ -12,6 +12,12 @@ markdown
 
 </div>
 
+BandCtl - Ultimate Bandwidth Control Tool for Linux | Port-Based Traffic Limiter with Auto-Restore
+
+🚀 Simple yet powerful bandwidth limiter for Linux servers. Limit speed on any port instantly with auto-restore after reboot. Perfect for V2Ray, Xray, OpenVPN, Nginx, game servers, and more.
+
+Topics: bandwidth-limiter, traffic-control, linux-tool, port-limiting, tc-htb, ubuntu, debian, v2ray, xray, openvpn, wireguard, nginx
+
 ---
 
 ## ✨ Features
