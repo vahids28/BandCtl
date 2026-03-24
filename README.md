@@ -9,10 +9,6 @@
 
 **Simple, Reliable, Auto-Restore Bandwidth Limiter for Linux Servers**
 
-[![Install](https://img.shields.io/badge/🚀-Install-blue?style=for-the-badge)](#-installation)
-[![Quick Start](https://img.shields.io/badge/⚡-Quick%20Start-green?style=for-the-badge)](#-quick-start)
-[![Docs](https://img.shields.io/badge/📖-Docs-orange?style=for-the-badge)](#-features)
-
 </div>
 
 ---
@@ -37,6 +33,3 @@
 
 ```bash
 sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/vahids28/BandCtl/main/bandctl.sh)" && sudo bandctl
-
-
-### One-Line Install
