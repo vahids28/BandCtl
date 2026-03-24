@@ -37,5 +37,6 @@
 
 ```bash
 sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/vahids28/BandCtl/main/bandctl.sh)" && sudo bandctl
-```bash
-sds
+
+
+### One-Line Install
