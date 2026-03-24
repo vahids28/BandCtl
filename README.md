@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🚀 BandCtl - Bandwidth Control Tool
 
 <div align="center">
