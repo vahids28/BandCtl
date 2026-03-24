@@ -1,5 +1,5 @@
-markdown
-# 🚀 BandCtl - Bandwidth Control Tool
+
+# 🚀 BandCtl - Simple Port Bandwidth Limiter for Ubuntu/Debian
 
 <div align="center">
 
