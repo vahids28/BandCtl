@@ -443,13 +443,6 @@ Full license: https://opensource.org/licenses/MIT
 
 BandCtl uses Linux Traffic Control (tc) which requires root privileges. Use responsibly and ensure you have proper authorization to limit bandwidth on your server. The author is not responsible for any misuse or damage caused by this tool.
 
----
-
-## 📞 Support & Community
-
-- **GitHub Issues**: [Report bugs](https://github.com/vahids28/BandCtl/issues)
-- **Discussions**: [Ask questions](https://github.com/vahids28/BandCtl/discussions)
-- **Email**: vahids28@gmail.com
 
 ---
 
